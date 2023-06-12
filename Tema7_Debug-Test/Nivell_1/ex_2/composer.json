@@ -1,0 +1,11 @@
+{
+    "name": "toshiba/ex_2",
+    "require": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toshiba\\Ex2\\": "src/"
+        }
+    }
+}
